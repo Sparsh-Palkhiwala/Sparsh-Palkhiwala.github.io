@@ -5,8 +5,7 @@
 - M.S., Computer Science	| Arizona State University (_May 2025_)	 			        		
 - B.Tech., Electronics and Communication | Nirma Institute of Technology (_May 2023_)
 
-
-
+--- 
 ## Work Experience
 
 **AI Developer @ Psych for Life | (_August 2023 – Present_)**
@@ -47,6 +46,21 @@
 
 **Movie Booking System | C++, Data Structures, Algorithms Git | (_Sept 2021 - Nov 2021_)**
 - Collaborated on a C program utilizing Arrays and Queues to simulate theater seating arrangement allowing users to choose seats and rows and displays the total amount due.
+
+---
+
+## Technical Skills
+**Languages:** 
+C++, Python, C, Perl, Shell, Kotlin, Linux, Java, Matlab
+
+**Tools & Frameworks:**
+HTML, CSS, YOLO, OpenCV, Flutter, Kafka, Apache, Spark, Docker
+
+**Developer Tools:**
+AWS, Git, Anaconda, Spyder, Linux, IntelliJ, VSCode, Android Studio, LaTeX, PowerBI, Tableau
+
+**Libraries:**
+NumPy, Pandas, Keras, Scikit-learn, Torch, TensorFlow, PyTorch, Neural Networks, Deep Learning
 
 ---
 
