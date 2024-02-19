@@ -1,6 +1,3 @@
-# Sparsh-Palkhiwala.github.io
-
-
 ## Education
 - M.S., Computer Science	| Arizona State University (_May 2025_)	 			        		
 - B.Tech., Electronics and Communication | Nirma Institute of Technology (_May 2023_)
