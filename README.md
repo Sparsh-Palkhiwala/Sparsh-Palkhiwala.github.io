@@ -60,7 +60,7 @@ AWS, Git, Anaconda, Spyder, Linux, IntelliJ, VSCode, Android Studio, LaTeX, Powe
 NumPy, Pandas, Keras, Scikit-learn, Torch, TensorFlow, PyTorch, Neural Networks, Deep Learning
 
 ---
-
+[Visitor Count](https://profile-counter.glitch.me/Sparsh-Palkhiwala/count.svg)
 ## Publications
 - Analysis of Machine Learning algorithms for predicting student grade | Springer Journal of Data, Information and Management [Publication](https://link.springer.com/article/10.1007/s42488-022-00078-2)
 - Fire Detection and Control Systems | STM Journals, International Journal of Radio Frequency Design [Publication](https://ecc.journalspub.info/index.php?journal=JRFD&page=article&op=view&path%5B%5D=1678)
