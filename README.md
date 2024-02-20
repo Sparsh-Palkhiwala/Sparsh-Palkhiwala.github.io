@@ -1,8 +1,7 @@
 # Contact me 
 [![Gmail Badge](https://img.shields.io/badge/-spalkhiw@asu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spalkhiw@asu.edu)](mailto:spalkhiw@asu.edu)
 [![Linkedin Badge](https://img.shields.io/badge/-sparshpalkhiwala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sparsh-palkhiwala/)](https://www.linkedin.com/in/sparsh-palkhiwala/)
-### Visitor count
-<img src="https://profile-counter.glitch.me/Sparsh-Palkhiwala/count.svg" />
+
 
 ## Education
 - M.S., Computer Science	| Arizona State University (_May 2025_)	 			        		
@@ -69,7 +68,7 @@ NumPy, Pandas, Keras, Scikit-learn, Torch, TensorFlow, PyTorch, Neural Networks,
 ## Publications
 - Analysis of Machine Learning algorithms for predicting student grade | Springer Journal of Data, Information and Management [Publication](https://link.springer.com/article/10.1007/s42488-022-00078-2)
 - Fire Detection and Control Systems | STM Journals, International Journal of Radio Frequency Design [Publication](https://ecc.journalspub.info/index.php?journal=JRFD&page=article&op=view&path%5B%5D=1678)
----
+
 
 
 
