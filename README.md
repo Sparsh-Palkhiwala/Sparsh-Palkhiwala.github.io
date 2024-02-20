@@ -44,10 +44,13 @@
 
 **Movie Booking System | C++, Data Structures, Algorithms Git | (_Sept 2021 - Nov 2021_)**
 - Collaborated on a C program utilizing Arrays and Queues to simulate theater seating arrangement allowing users to choose seats and rows and displays the total amount due.
+
 ---
+
 ## Education
 - M.S., Computer Science - Arizona State University (_May 2025_)	 			        		
 - B.Tech., Electronics and Communication - Nirma Institute of Technology (_May 2023_)
+
 ---
 
 ## Technical Skills
