@@ -1,5 +1,5 @@
 # Contact me 
-[![Gmail Badge](https://img.shields.io/badge/-mailto:spalkhiw@asu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spalkhiw@asu.edu)](mailto:spalkhiw@asu.edu)
+[![Gmail Badge](https://img.shields.io/badge/-spalkhiw@asu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spalkhiw@asu.edu)](mailto:spalkhiw@asu.edu)
 
 ## Education
 - M.S., Computer Science	| Arizona State University (_May 2025_)	 			        		
