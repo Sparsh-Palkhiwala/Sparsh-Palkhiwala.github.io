@@ -1,6 +1,6 @@
 # Contact me 
-[![Gmail Badge](https://img.shields.io/badge/-spalkhiw@asu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spalkhiw@asu.edu)](mailto:spalkhiw@asu.edu)]
-[![Linkedin Badge](https://img.shields.io/badge/-sparshpalkhiwala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sparsh-palkhiwala/)]
+[![Gmail Badge](https://img.shields.io/badge/-spalkhiw@asu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spalkhiw@asu.edu)](mailto:spalkhiw@asu.edu)](mailto:spalkhiw@asu.edu)
+[![Linkedin Badge](https://img.shields.io/badge/-sparshpalkhiwala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sparsh-palkhiwala/)](https://www.linkedin.com/in/sparsh-palkhiwala/)
 
 ## Education
 - M.S., Computer Science	| Arizona State University (_May 2025_)	 			        		
