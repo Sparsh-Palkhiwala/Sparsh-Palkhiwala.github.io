@@ -66,4 +66,3 @@ NumPy, Pandas, Keras, Scikit-learn, Torch, TensorFlow, PyTorch, Neural Networks,
 ---
 ### Visitor count
 <img src="https://profile-counter.glitch.me/Sparsh-Palkhiwala/count.svg" />
-Visitor Count : [Visitor Count](Visitor Count : [Visitor Count](https://profile-counter.glitch.me/Sparsh-Palkhiwala/count.svg))
