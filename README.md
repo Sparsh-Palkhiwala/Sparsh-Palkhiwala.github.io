@@ -67,4 +67,4 @@ NumPy, Pandas, Keras, Scikit-learn, Torch, TensorFlow, PyTorch, Neural Networks,
 ### Visitor count
 <img src="https://profile-counter.glitch.me/Sparsh-Palkhiwala/count.svg" />
 
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:spalkhiw@asu.edu)
+[![Gmail Badge](https://img.shields.io/badge/-spalkhiw@asu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spalkhiw@asu.edu)](mailto:spalkhiw@asu.edu)
