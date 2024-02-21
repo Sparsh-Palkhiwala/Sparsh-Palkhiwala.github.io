@@ -31,21 +31,21 @@
 - Delegated research by analyzing over 20+ review articles and research papers to enhance content moderation.
 
 **Comparative Analysis of ML Models for Student Grade Prediction  | (_July 2022 - Dec 2022_)** [Publication](https://link.springer.com/article/10.1007/s42488-022-00078-2)
-Technologies Used : Machine Learning, SVM, Sklearn, NumPy, Matlplotlib, Random Forest
-- Analyzed and remodeled multiple classifiers Random Forest, Decision Tree by optimizing hyperparameters to improve accuracy by 6% and F1-score by 12% for predicting students’ grades.
-- Demonstrated understanding of machine learning fundamentals, including data preparation, model selection, and performance evaluation, with model selection achieving 87.3% accuracy and 0.913 F1-score.
-- Enhanced hyperparameters tuning using GridSearchCV, leading to significant 41% improvement in F1 score.
+- Technologies Used : Machine Learning, SVM, Sklearn, NumPy, Matlplotlib, Random Forest
+  - Analyzed and remodeled multiple classifiers Random Forest, Decision Tree by optimizing hyperparameters to improve accuracy by 6% and F1-score by 12% for predicting students’ grades.
+  - Demonstrated understanding of machine learning fundamentals, including data preparation, model selection, and performance evaluation, with model selection achieving 87.3% accuracy and 0.913 F1-score.
+  - Enhanced hyperparameters tuning using GridSearchCV, leading to significant 41% improvement in F1 score.
 
 **Fault Prediction for Combination Circuits | (_June 2022 - Nov 2022_)**
-Technologies Used : Scikit-Learn, Numpy, Pandas, Seaborn, Matplotlib 
-- Evaluated and deployed Machine Learning models Support Vector Classifier, KNN for fault prediction in circuits.
-- Accelerated testing processes and slashed time by 25% spent on fault testing and verification.
-- Accomplished 36% accuracy while predicting faults, which was improved to 54% by Data Engineering.
-- Optimized performance by Feature Engineering, leading to a 40% reduction in computation time.
+- Technologies Used : Scikit-Learn, Numpy, Pandas, Seaborn, Matplotlib 
+  - Evaluated and deployed Machine Learning models Support Vector Classifier, KNN for fault prediction in circuits.
+  - Accelerated testing processes and slashed time by 25% spent on fault testing and verification.
+  - Accomplished 36% accuracy while predicting faults, which was improved to 54% by Data Engineering.
+  - Optimized performance by Feature Engineering, leading to a 40% reduction in computation time.
 
 **Movie Booking System | (_Sept 2021 - Nov 2021_)**
-Technologies Used : C++, Data Structures, Algorithms Git
-- Collaborated on a C program utilizing Arrays and Queues to simulate theater seating arrangement allowing users to choose seats and rows and displays the total amount due.
+- Technologies Used : C++, Data Structures, Algorithms Git
+  - Collaborated on a C program utilizing Arrays and Queues to simulate theater seating arrangement allowing users to choose seats and rows and displays the total amount due.
 
 ---
 
