@@ -1,19 +1,12 @@
-# Contact me 
-[![Gmail Badge](https://img.shields.io/badge/-spalkhiw@asu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spalkhiw@asu.edu)](mailto:spalkhiw@asu.edu)
-[![Linkedin Badge](https://img.shields.io/badge/-sparshpalkhiwala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sparsh-palkhiwala/)](https://www.linkedin.com/in/sparsh-palkhiwala/)
 
-<h1 align="center">Hi 👋, I'm Sparsh Devang Palkhiwala</h1>
-<h3 align="center">A Masters of Science in Computer Science Graduate at Arizona State University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh-palkhiwala&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh-palkhiwala" /> </p>
+🔭 I’m currently working on **Content Moderation Using AI and NLP**
 
-- 🔭 I’m currently working on **Content Moderation Using AI and NLP**
+🌱 I’m currently learning **Deep Learning, Graph VQA and Docker**
 
-- 🌱 I’m currently learning **Deep Learning, Graph VQA and Docker**
+📫 How to reach me **spalkhiw@asu.edu**
 
-- 📫 How to reach me **spalkhiw@asu.edu**
-
-- ⚡ Fun fact **I have a Bachelor's in Electronics and Communication**
+⚡ Fun fact **I have a Bachelor's in Electronics and Communication**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
