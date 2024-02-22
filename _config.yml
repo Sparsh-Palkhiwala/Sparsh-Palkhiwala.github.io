@@ -6,5 +6,5 @@ description: |
 linkedin: https://www.linkedin.com/in/sparsh-palkhiwala/
 email: spalkhiw@asu.edu
 
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-minimal
