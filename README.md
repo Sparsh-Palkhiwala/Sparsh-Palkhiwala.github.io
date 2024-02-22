@@ -33,6 +33,8 @@
 - Achieved an 86.5% reduction in resource usage by filter pruning algorithm while maintaining a mean precision of 42%.
 - Computed CNN models on 16,000 image datasets for vehicle detection, designed to aid visually impaired individuals.
 - Enhanced real-time safety detection in YOLO by implementing an algorithm, achieving a 25 fps detection rate.
+- Applied precision-focused strategies and fine-tuned the model using Indian traffic data to enhance accuracy in detecting vehicles within specific environmental conditions.
+- Collaborated with team members to streamline training processes, document methodologies, and advance computer vision technology for traffic surveillance and safety applications.
 
 ### Software Engineering Intern @ Oxvi Respire Solutions | (May 2022 – July 2022)
 
@@ -54,6 +56,9 @@
 - Analyzed and remodeled multiple classifiers Random Forest, Decision Tree by optimizing hyperparameters to improve accuracy by 6% and F1-score by 12% for predicting students’ grades.
 - Demonstrated understanding of machine learning fundamentals, including data preparation, model selection, and performance evaluation, with model selection achieving 87.3% accuracy and 0.913 F1-score.
 - Enhanced hyperparameters tuning using GridSearchCV, leading to significant 41% improvement in F1 score.
+- Conducted comprehensive analysis of student grades to identify correlations between different factors and academic performance, aiming to assist educational institutions in improving student outcomes.
+
+  
 
 ### Fault Prediction for Combination Circuits | (June 2022 - Nov 2022)
 
