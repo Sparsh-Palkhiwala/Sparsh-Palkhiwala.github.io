@@ -1,8 +1,10 @@
 title: Sparsh Palkhiwala
 logo: sparsh_img.jpg
-description: I'm Sparsh Palkhiwala, pursuing a Master's in Computer Science at Arizona State University. With a Bachelor's in Electronics and Communication from Nirma Institute of Technology, I've led teams as an AI Developer at Psych for Life and a Computer Vision Intern at eInfochips. Skilled in Python, C++, and data analysis tools, I'm committed to leveraging technology for meaningful solutions.
+description: |
+  I am Sparsh Palkhiwala, currently pursuing a Master's degree in Computer Science at Arizona State University. I hold a Bachelor's degree in Electronics and Communication from Nirma Institute of Technology. With valuable experience leading teams as an AI Developer at Psych for Life and as a Computer Vision Intern at eInfochips, I am proficient in Python, C++, and various data analysis tools. I am deeply committed to harnessing technology for impactful solutions.
+
 linkedin: https://www.linkedin.com/in/sparsh-palkhiwala/
 email: spalkhiw@asu.edu
 
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
