@@ -21,7 +21,7 @@
 
 ## Work Experience
 
-### AI Developer @ Psych for Life | (August 2023 – Present)
+### AI Integration Specialist @ Psych for Life | (August 2023 – Present)
 
 - Achieved 80% reduction in research time by utilizing Prompt Engineering for enhanced efficiency.
 - Leading integration of AI into the writing process for enhanced efficiency, resulting in a streamlined timeframe.
