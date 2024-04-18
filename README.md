@@ -1,6 +1,6 @@
 ## About Me
 
-🔭 I’m currently working on **Content Moderation Using AI and NLP**.
+🔭 I’m currently working on **TrafficVQA**.
 
 🌱 I’m currently learning about **Deep Learning, Graph VQA, and Docker**.
 
@@ -88,7 +88,7 @@ C++, Python, C, Perl, Shell, Kotlin, Linux, Java, Matlab
 
 ### Tools & Frameworks
 
-HTML, CSS, YOLO, OpenCV, Flutter, Kafka, Apache, Spark, Docker
+HTML, CSS, YOLO, OpenCV, Flutter, Kafka, Apache, Spark, Docker, SQL
 
 ### Developer Tools
 
