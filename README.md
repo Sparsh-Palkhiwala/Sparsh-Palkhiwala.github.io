@@ -25,7 +25,10 @@
 
 - Achieved 80% reduction in research time by utilizing Prompt Engineering for enhanced efficiency.
 - Leading integration of AI into the writing process for enhanced efficiency, resulting in a streamlined timeframe.
+- Orchestrated the development and implementation of custom prompt engineering solutions, resulting in a 50% reduction in process cycle time and a 30% increase in team productivity.
 - Conducted research, literature reviews, data analysis, and fact-checking for 65+ scientific documents.
+- Spearheaded collaboration efforts between internal teams and *Luminosity Labs* for development of a scalable platform, streamlining operations and improving cross-departmental communication.
+- Employed caching techniques, resulting in reduction in 70% decrease in rendering delay and improving website performance
 
 ### Computer Vision Intern @ eInfochips (An ARROW Company) | (Jan 2023 – June 2023)
 
