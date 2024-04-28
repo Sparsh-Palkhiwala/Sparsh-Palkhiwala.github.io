@@ -6,6 +6,8 @@
 
 📫 You can reach me via email at **spalkhiw@asu.edu**.
 
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yZKU9wfBxU7ulCkj_Pxsjsho9URGwl2-/view?usp=drive_link)
+
 ⚡ Fun fact: I hold a Bachelor's degree in Electronics and Communication.
 
 ## Connect with Me
