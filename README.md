@@ -23,6 +23,8 @@
 
 ## Work Experience
 
+### Upcoming Software Engineering Intern @ Mirwork Inc | (June 2024 - Present)
+
 ### AI Integration Specialist @ Psych for Life | (August 2023 – Present)
 
 - Achieved 80% reduction in research time by utilizing Prompt Engineering for enhanced efficiency.
