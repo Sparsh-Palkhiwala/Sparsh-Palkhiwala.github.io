@@ -45,13 +45,17 @@
 
 ### Software Engineering Intern @ Oxvi Respire Solutions | (May 2022 – July 2022)
 
-- Developed an Android app to plot real-time values from a prototype ventilator, with live data visualization.
+- Developed an Android app to plot real-time values from a prototype ventilator with live data visualization.
 - Integrated Firebase for real-time communication, enabling data transmission between the device and application.
 - Implemented communication protocols to embedded C components in the prototype for data exchange within a 5ms lag.
 
 ---
 
 ## Projects
+
+### Graph-based QA or Intelligent Traffic Analysis | (July 2022 - Dec 2022)
+- Extracted 70,000+ frames from traffic videos at 10 fps, enhancing usability and improving VQA system accuracy
+- Converted 10,000+ questions into GloVe word embeddings, improving the model’s NLP and question understanding capabilities for Scene Graph Generation
 
 ### Hate Speech Detection using NLP and AI | (Jan 2024 - Present)
 
@@ -60,9 +64,9 @@
 
 ### Comparative Analysis of ML Models for Student Grade Prediction | (July 2022 - Dec 2022) [Publication](https://link.springer.com/article/10.1007/s42488-022-00078-2)
 
-- Analyzed and remodeled multiple classifiers Random Forest, Decision Tree by optimizing hyperparameters to improve accuracy by 6% and F1-score by 12% for predicting students’ grades.
+- Analyzed and remodeled multiple classifiers, Random Forest and Decision Tree, by optimizing hyperparameters to improve accuracy by 6% and F1-score by 12% for predicting students’ grades.
 - Demonstrated understanding of machine learning fundamentals, including data preparation, model selection, and performance evaluation, with model selection achieving 87.3% accuracy and 0.913 F1-score.
-- Enhanced hyperparameters tuning using GridSearchCV, leading to significant 41% improvement in F1 score.
+- Enhanced hyperparameters tuning using GridSearchCV, leading to a significant 41% improvement in F1 score.
 - Conducted comprehensive analysis of student grades to identify correlations between different factors and academic performance, aiming to assist educational institutions in improving student outcomes.
 
   
@@ -76,7 +80,7 @@
 
 ### Movie Booking System | (Sept 2021 - Nov 2021)
 
-- Collaborated on a C program utilizing Arrays and Queues to simulate theater seating arrangement allowing users to choose seats and rows and displays the total amount due.
+- Collaborated on a C program utilizing Arrays and Queues to simulate theater seating arrangement, allowing users to choose seats and rows and display the total amount due.
 
 ---
 
