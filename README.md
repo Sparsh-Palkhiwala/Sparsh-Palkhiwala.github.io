@@ -23,7 +23,10 @@
 
 ## Work Experience
 
-### Upcoming Software Engineering Intern @ Mirwork Inc | (June 2024 - Present)
+### Machine Learning Intern @ Mirwork Inc | (June 2024 - Present)
+- Engineered and optimized data extraction pipelines using YouTube API to gather and process video content.
+- Designed, implemented, and maintained MongoDB database to store and manage extensive video data sets efficiently.
+- Utilized YouTube data to fine-tune Large Language Models (LLMs) to improve the accuracy and effectiveness of interview assessment tools
 
 ### AI Integration Specialist @ Psych for Life | (August 2023 – Present)
 
