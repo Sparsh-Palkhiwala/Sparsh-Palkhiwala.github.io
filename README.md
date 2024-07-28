@@ -24,9 +24,11 @@
 ## Work Experience
 
 ### Machine Learning Intern @ Mirwork Inc | (June 2024 - Present)
-- Engineered and optimized data extraction pipelines using YouTube API to gather and process video content.
-- Designed, implemented, and maintained MongoDB database to store and manage extensive video data sets efficiently.
-- Utilized YouTube data to fine-tune Large Language Models (LLMs) to improve the accuracy and effectiveness of interview assessment tools
+- Engineered and optimized data extraction pipelines using YouTube API to process audio, gathering about 70+ hours of content.
+- Designed, implemented, and maintained MongoDB database to efficiently store and manage extensive audio data sets.
+- Utilized YouTube data to fine-tune LLM to improve the accuracy and effectiveness of interview assessment tools.
+- Implemented Speaker Diarization techniques for structuring data, enhancing LLM fine-tuning for interview assessments.
+
 
 ### AI Integration Specialist @ Psych for Life | (August 2023 – Present)
 
@@ -119,6 +121,12 @@ NumPy, Pandas, Keras, Scikit-learn, Torch, TensorFlow, PyTorch, Neural Networks,
 - Analysis of Machine Learning algorithms for predicting student grade - Springer Journal of Data, Information and Management [Publication](https://link.springer.com/article/10.1007/s42488-022-00078-2)
 - Fire Detection and Control Systems - STM Journals, International Journal of Radio Frequency Design [Publication](https://ecc.journalspub.info/index.php?journal=JRFD&page=article&op=view&path%5B%5D=1678)
 
+
+---
+## Certifications
+- [AWS Cloud Foundations](https://www.credly.com/badges/922e29a0-c732-419f-a76c-9e4b781ef3b2/print)
+- [Cybersecurity Basics, IBM](https://courses.edx.org/certificates/f5c4a1a6ada240949fd4de113998451e)
+- [Applied Scrum for Agile Project Management](https://courses.edx.org/certificates/b3c8482740344e4e9dd6c758171f6f08)
 
 ---
 
