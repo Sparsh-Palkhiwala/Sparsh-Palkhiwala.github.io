@@ -14,7 +14,7 @@ navigation:
   - name: Home
     link: /
   - name: About
-    link: /about
+    link: /about.md
   - name: Projects
     link: /projects
   - name: Contact
