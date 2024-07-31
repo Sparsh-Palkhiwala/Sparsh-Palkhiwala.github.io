@@ -8,14 +8,3 @@ email: spalkhiw@asu.edu
 google_analytics: "G-WSRDK2WH7R"
 # show_downloads: true
 theme: jekyll-theme-minimal
-
-# Navigation
-navigation:
-  - name: Home
-    link: /
-  - name: About
-    link: /about.md
-  - name: Projects
-    link: /projects
-  - name: Contact
-    link: /contact
