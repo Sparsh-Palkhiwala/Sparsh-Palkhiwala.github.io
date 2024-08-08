@@ -66,7 +66,6 @@
 
 - Managed a team of 9 in developing and implementing NLP and AI-driven solutions for content filtering.
 - Delegated research by analyzing over 50+ review articles and research papers to enhance content moderation.
-- Propsed a 
 
 ### Comparative Analysis of ML Models for Student Grade Prediction | (July 2022 - Dec 2022) [Publication](https://link.springer.com/article/10.1007/s42488-022-00078-2)
 
