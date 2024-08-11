@@ -10,6 +10,8 @@
 
 ⚡ Fun fact: I hold a Bachelor's degree in Electronics and Communication.
 
+Want to check out my new site under construction - [spalkhiw.com](https://spalkhiw.netlify.app/)
+
 ## Connect with Me
 
 <p align="left">
