@@ -25,7 +25,9 @@ Want to check out my new site under construction - [spalkhiw.com](https://spalkh
 
 ## Work Experience
 
-### Machine Learning Intern @ Mirwork Inc | (June 2024 - Present)
+### Upcoming Engineering Intern @ Sibi
+
+### Machine Learning Intern @ Mirwork Inc | (June 2024 - Aug 2024)
 - Engineered and optimized data extraction pipelines using YouTube API to process audio, gathering about 70+ hours of content.
 - Designed, implemented, and maintained **MongoDB** database to efficiently store and manage extensive audio data sets.
 - Utilized YouTube data to fine-tune **LLM** to improve the accuracy and effectiveness of interview assessment tools.
