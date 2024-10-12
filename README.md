@@ -25,24 +25,28 @@ Want to check out my new site under construction - [spalkhiw.com](https://spalkh
 
 ## Work Experience
 
-### Machine Learning Intern @ Mirwork Inc | (June 2024 - Aug 2024)
+### Software Engineering Intern (AI/ML) @ SIBI LLC | (September 2024 - Present)
+- Created a dataset of 100+ Text-to-SQL queries to enhance model evaluation, leading to improvement in model accuracy
+- Designed and implemented an evaluation framework for an internal LLM assistant, incorporating new metrics from EvalKit,
+improving performance and reliance
+
+### Software Engineering Intern (AI/ML) @ Mirwork Inc | (June 2024 - Aug 2024)
 - Engineered and optimized data extraction pipelines using YouTube API to process audio, gathering about 70+ hours of content.
 - Designed, implemented, and maintained **MongoDB** database to efficiently store and manage extensive audio data sets.
 - Utilized YouTube data to fine-tune **LLM** to improve the accuracy and effectiveness of interview assessment tools.
 - Implemented Speaker Diarization techniques for structuring data, enhancing LLM fine-tuning for interview assessments.
 
 
-### AI Integration Specialist @ Psych for Life | (August 2023 – Present)
-
+### AI Integration and Web Developer @ Psych for Life | (August 2023 – Present)
 - Achieved 80% reduction in research time by utilizing **Prompt Engineering** for enhanced efficiency.
+- Enhanced content management systems by fixing bugs and integrating transcript functionality into the dashboard for streamlined content updates.
 - Leading integration of **AI** into the writing process for enhanced efficiency, resulting in a streamlined timeframe.
 - Orchestrated the development and implementation of custom prompt engineering solutions, resulting in a 50% reduction in process cycle time and a 30% increase in team productivity.
 - Conducted research, literature reviews, data analysis, and fact-checking for 65+ scientific documents.
 - Spearheaded collaboration efforts between internal teams and **Luminosity Labs** for development of a scalable platform, streamlining operations and improving cross-departmental communication.
 - Employed caching techniques, resulting in reduction in 70% decrease in rendering delay and improving website performance
 
-### Computer Vision Intern @ eInfochips (An ARROW Company) | (Jan 2023 – June 2023)
-
+### Software Engineering Intern (CV) @ eInfochips (An ARROW Company) | (Jan 2023 – June 2023)
 - Led a team of 3 to develop a real-time vehicle detection system for visually impaired individuals, achieving 65.4% average precision and 70.7% for car detection using **YOLOv5**.
 - Achieved an 86.5% reduction in resource usage by filter pruning algorithm while maintaining a mean precision of 42%.
 - Computed **CNN** models on 16,000 image datasets for vehicle detection, designed to aid visually impaired individuals.
@@ -51,7 +55,6 @@ Want to check out my new site under construction - [spalkhiw.com](https://spalkh
 - Collaborated with engineers to streamline training processes, document methodologies, and advance **computer vision** technology for traffic surveillance and safety applications.
 
 ### Software Engineering Intern @ Oxvi Respire Solutions | (May 2022 – July 2022)
-
 - Developed an **Android** app to plot real-time values from a prototype ventilator with live **Data Visualization**.
 - Integrated **Firebase** for real-time communication, enabling data transmission between the device and application.
 - Implemented communication protocols to embedded C components in the prototype for data exchange within a 5ms lag.
