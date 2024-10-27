@@ -27,14 +27,15 @@ Want to check out my new site under construction - [spalkhiw.com](https://spalkh
 
 ### Software Engineering Intern (AI/ML) @ SIBI LLC | (September 2024 - Present)
 - Created a dataset of 100+ Text-to-SQL queries to enhance model evaluation, leading to improvement in model accuracy
-- Designed and implemented an evaluation framework for an internal LLM assistant, incorporating new metrics from EvalKit,
-improving performance and reliance
+- Designed and implemented an evaluation framework for an internal LLM assistant, incorporating new metrics from EvalKit,improving performance and reliance
+- Integrated Claude API for Text2SQL evaluation, automating query assessments and enhancing model performance analysis
+- Reduced token usage by 70% by implementing PromptAgent optimization to address high token costs.
 
 ### Software Engineering Intern (AI/ML) @ Mirwork Inc | (June 2024 - Aug 2024)
 - Engineered and optimized data extraction pipelines using YouTube API to process audio, gathering about 70+ hours of content.
 - Designed, implemented, and maintained **MongoDB** database to efficiently store and manage extensive audio data sets.
 - Utilized YouTube data to fine-tune **LLM** to improve the accuracy and effectiveness of interview assessment tools.
-- Implemented Speaker Diarization techniques for structuring data, enhancing LLM fine-tuning for interview assessments.
+- Implemented speaker Darization techniques for structuring data and enhancing LLM fine-tuning for interview assessments.
 
 
 ### AI Integration and Web Developer @ Psych for Life | (August 2023 – Present)
@@ -43,8 +44,9 @@ improving performance and reliance
 - Leading integration of **AI** into the writing process for enhanced efficiency, resulting in a streamlined timeframe.
 - Orchestrated the development and implementation of custom prompt engineering solutions, resulting in a 50% reduction in process cycle time and a 30% increase in team productivity.
 - Conducted research, literature reviews, data analysis, and fact-checking for 65+ scientific documents.
-- Spearheaded collaboration efforts between internal teams and **Luminosity Labs** for development of a scalable platform, streamlining operations and improving cross-departmental communication.
-- Employed caching techniques, resulting in reduction in 70% decrease in rendering delay and improving website performance
+- Implemented version control, conducted unit testing, and resolved platform bugs in TypeScript, ensuring code stability.
+- Led collaboration with Luminosity Labs for platform development, which streamlined operations and enhanced communication
+- Employed caching techniques, resulting in a reduction in 70% decrease in rendering delay and improving website performance
 
 ### Software Engineering Intern (CV) @ eInfochips (An ARROW Company) | (Jan 2023 – June 2023)
 - Led a team of 3 to develop a real-time vehicle detection system for visually impaired individuals, achieving 65.4% average precision and 70.7% for car detection using **YOLOv5**.
