@@ -38,7 +38,7 @@ Want to check out my new site under construction - [spalkhiw.com](https://spalkh
 - Implemented speaker Darization techniques for structuring data and enhancing LLM fine-tuning for interview assessments.
 
 
-### AI Integration and Web Developer @ Psych for Life | (August 2023 – Present)
+### Software Developer @ Psych for Life | (August 2023 – Present)
 - Achieved 80% reduction in research time by utilizing **Prompt Engineering** for enhanced efficiency.
 - Enhanced content management systems by fixing bugs and integrating transcript functionality into the dashboard for streamlined content updates.
 - Leading integration of **AI** into the writing process for enhanced efficiency, resulting in a streamlined timeframe.
