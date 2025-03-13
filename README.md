@@ -30,6 +30,8 @@ Want to check out my new site under construction - [spalkhiw.com](https://spalkh
 - Designed and implemented an evaluation framework for an internal LLM assistant, incorporating new metrics from EvalKit,improving performance and reliance
 - Integrated Claude API for Text2SQL evaluation, automating query assessments and enhancing model performance analysis
 - Reduced token usage by 70% by implementing PromptAgent optimization to address high token costs.
+- Increased system efficiency by automating SQL performance evaluations on Redshift, minimizing debugging time.
+- Developed Agentic workflows to build a research agent and LLM-based decision-making for appliance recommendations.
 
 ### Software Engineering Intern (AI/ML) @ Mirwork Inc | (June 2024 - Aug 2024)
 - Engineered and optimized data extraction pipelines using YouTube API to process audio, gathering about 70+ hours of content.
@@ -47,6 +49,7 @@ Want to check out my new site under construction - [spalkhiw.com](https://spalkh
 - Implemented version control, conducted unit testing, and resolved platform bugs in TypeScript, ensuring code stability.
 - Led collaboration with Luminosity Labs for platform development, which streamlined operations and enhanced communication
 - Employed caching techniques, resulting in a reduction in 70% decrease in rendering delay and improving website performance
+- Migrated from NPM to **PNPM**, reducing package install time by 40% improving dependency management and build reliability.
 
 ### Software Engineering Intern (CV) @ eInfochips (An ARROW Company) | (Jan 2023 – June 2023)
 - Led a team of 3 to develop a real-time vehicle detection system for visually impaired individuals, achieving 65.4% average precision and 70.7% for car detection using **YOLOv5**.
