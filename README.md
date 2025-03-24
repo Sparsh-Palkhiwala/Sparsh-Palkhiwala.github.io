@@ -41,6 +41,7 @@ Want to check out my new site under construction - [spalkhiw.com](https://spalkh
 
 
 ### Software Developer @ Psych for Life | (August 2023 – Present)
+- Migrated web app from NPM to **PNPM**, cutting build times and boosting reliability with efficient dependency linking and content-addressable storage.
 - Achieved 80% reduction in research time by utilizing **Prompt Engineering** for enhanced efficiency.
 - Enhanced content management systems by fixing bugs and integrating transcript functionality into the dashboard for streamlined content updates.
 - Leading integration of **AI** into the writing process for enhanced efficiency, resulting in a streamlined timeframe.
